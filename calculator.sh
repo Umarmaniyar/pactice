@@ -1,8 +1,0 @@
-!#/bin/bash
-#
-#
-#
-###################
-#  adition function
-#
-#
